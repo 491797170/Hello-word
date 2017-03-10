@@ -1,0 +1,38 @@
+/*底部*/
+#Dibu span{
+    margin-top: 10px;
+    padding-left: 30px;
+}
+#Dibu p{
+      padding-left: 23px;
+    margin-top: 5px;
+}
+.navbar .header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 2rem;
+}
+
+#an{
+    display: flex;
+    justify-content: space-between;
+    /*align-items: center;*/
+    margin-top: 50px;
+}
+#an button:nth-child(1){
+    /*width: 50%;*/
+    /*padding-top: 50px;*/
+    font-size: 30px;
+    background-color: red;
+    /*margin: 0px auto;*/
+    
+}
+#an button:nth-child(2){
+    /*width: 50%;*/
+    /*padding-top: 50px;*/
+    font-size: 30px;
+    background-color: orange;
+    /*margin: 0px auto;*/
+    
+}
